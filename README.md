@@ -22,10 +22,12 @@
 <br><br>
 
 *Native C64 VIBEAGENT*<br>
-<img width="514" height="345" alt="image" src="https://github.com/user-attachments/assets/db1dfbb1-92bd-4ee0-95a9-5c6ca57aff59" />
+<img width="522" height="353" alt="image" src="https://github.com/user-attachments/assets/2ee40aa0-a63b-4350-919d-59a96ebbdb5a" />
 <br><br>
 
 <br><br>
 <p align="right">
+  
+*Meet BYTE the VibeBuddy64U Mascot!*
 <img width="400" height="180" alt="BYTE" src="https://github.com/user-attachments/assets/ab58ac7e-0e04-45c0-b602-326db303e0f1" style="background: transparent !important;">
 </p>
