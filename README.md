@@ -3,6 +3,7 @@
 # VibeBuddy64U
 Coming soon to a C64Ultimate near you =)
 
+<br><br>
 Screenshot of the current working proto-type
 <img width="1699" height="1056" alt="image" src="https://github.com/user-attachments/assets/da5f96a7-69e2-40de-b830-c902675e5c53" />
 
