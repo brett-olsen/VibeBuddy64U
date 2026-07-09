@@ -13,8 +13,8 @@
 <img width="497" height="68" alt="image" src="https://github.com/user-attachments/assets/29e55415-1274-4cd6-afa4-a51289b9acc0" />
 <br><br>
 
-*SID Jukebox*<br>
-<img width="517" height="546" alt="image" src="https://github.com/user-attachments/assets/4b2022ac-386d-4baf-b1a1-64bd4ca01295" />
+*SID Jukebox - With HCSC Integration*<br>
+<img width="522" height="550" alt="image" src="https://github.com/user-attachments/assets/3acc72a1-be01-449b-87fb-75f0669945b5" />
 <br><br>
 
 *CSDB Integration*<br>
