@@ -36,7 +36,7 @@
 *Native C64 VIBEAGENT*<br>
 <img width="522" height="353" alt="image" src="https://github.com/user-attachments/assets/2ee40aa0-a63b-4350-919d-59a96ebbdb5a" />
 <br>
-- VIBEAGENT - A dynamic, compiled on demand Native AI Client for the C64! Connect to cloud and local models, chat, game, challenge and create all from your C64 Ultimate! Generate PETSCII or HIRES graphics via draw commands right on your C64, challenge the AI to text based adventures with the text preset system, with both PETSCII and HIRESE graphic support, all right on the C64 Ulimate! Chat with famous 80's computer inspired personalities, even with Speech synthesis all on your C64!
+- VIBEAGENT - A dynamic, compiled on demand Native AI Client for the C64! Connect to cloud and local models, chat, game, challenge and create all from your C64 Ultimate! Generate PETSCII or HIRES graphics via draw commands right on your C64, challenge the AI to text based adventures with the text preset system, with both PETSCII and HIRES graphic support, all right on the C64 Ulimate! Chat with famous 80's computer inspired personalities, even with Speech synthesis all on your C64!
 <br>
 
 <br><br>
