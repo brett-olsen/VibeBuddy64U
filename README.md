@@ -2,9 +2,9 @@
 
 # VibeBuddy64U
 
-**Proto-type is still being built, coming soon (hopefully by Christmas) to a C64Ultimate near you =)**<br>
+**Sneak peak at the VibeBuddy 64U prototype, it's still being built, coming soon (hopefully by Christmas) to a C64Ultimate near you =)**<br><br>
 
-*Screenshot of the current working proto-type*
+*Screenshot of the current working proto-type - do more with your c64!*
 
 <img width="1699" height="1056" alt="image" src="https://github.com/user-attachments/assets/da5f96a7-69e2-40de-b830-c902675e5c53" /><br>
 
@@ -27,7 +27,10 @@
 
 <br><br>
 
-<p align="right">Meet BYTE the VibeBuddy64U Mascot!</p>
+<p align="right">
+  
+*Meet BYTE the VibeBuddy64U Mascot!*
+</p>
 <p align="right">
 <img width="400" height="180" alt="BYTE" src="https://github.com/user-attachments/assets/ab58ac7e-0e04-45c0-b602-326db303e0f1" style="background: transparent !important;">
 </p>
