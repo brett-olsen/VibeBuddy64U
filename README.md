@@ -5,5 +5,5 @@ Coming soon to a C64Ultimate near you =)
 
 <br><br>
 <p align="right">
-<img width="200" height="90" alt="BYTE" src="https://github.com/user-attachments/assets/792fddef-373a-4e8f-bdc2-c0cfb2897bb9" style="background: transparent !important;">
+<img width="400" height="180" alt="BYTE" src="https://github.com/user-attachments/assets/792fddef-373a-4e8f-bdc2-c0cfb2897bb9" style="background: transparent !important;">
 </p>
