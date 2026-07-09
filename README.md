@@ -1,4 +1,4 @@
-<img width="1200" height="160" alt="logo" src="https://github.com/user-attachments/assets/c718bd18-e227-4a4a-8a05-9ce525c833cc" />
+<img width="1310" height="248" alt="image" src="https://github.com/user-attachments/assets/fe6bdb9d-dbb5-4ba6-a06c-693efa7ec852" />
 
 # VibeBuddy64U
 Coming soon to a C64Ultimate near you =)
