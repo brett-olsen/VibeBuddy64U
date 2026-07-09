@@ -11,7 +11,15 @@
 *Agent Modes*<br>
 <img width="502" height="71" alt="image" src="https://github.com/user-attachments/assets/5cdc149e-6f9f-4b2c-9f17-fda7e52d8e92" />
 <img width="497" height="68" alt="image" src="https://github.com/user-attachments/assets/29e55415-1274-4cd6-afa4-a51289b9acc0" />
-<br><br>
+<br>
+- 64 BASIC - Create C64 Basic programs using Local & Cloud AI
+- 64 ASM - Create C64 Machine Code programs using Local & Cloud AI (really needs a strong model!)
+- GAMEPLAY - Have AI interact and even play your games!
+- SPRITE - AI Enabled sprite editor with multiplexed sprite and multiframe AI generation!
+- PETSCII - Create stunning PETSCII art graphics using AI Image models on your C64U
+- HIRES - Have AI Image models generate HIRES graphics, including sprite overlays
+- SID - Use AI to generate SID tunes, via 3 distinct methods, Conversion, Arrangment & Text to SID
+<br>
 
 *SID Jukebox - With HCSC Integration*<br>
 <img width="522" height="550" alt="image" src="https://github.com/user-attachments/assets/3acc72a1-be01-449b-87fb-75f0669945b5" />
