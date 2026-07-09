@@ -2,7 +2,7 @@
 
 # VibeBuddy64U
 
-**Sneak peak at the VibeBuddy 64U prototype, it's still being built, coming soon (hopefully by Christmas) to a C64Ultimate near you =)**<br><br>
+**Sneak peak at the VibeBuddy 64U prototype, still under heavy constuction, but coming soon (hopefully by Christmas) to a C64Ultimate near you =)**<br><br>
 
 *Screenshot of the current working proto-type - do more with your c64!*
 
