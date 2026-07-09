@@ -21,17 +21,23 @@
 - SID - Use AI to generate SID tunes, via 3 distinct methods, Conversion, Arrangment & Text to SID
 <br>
 
-*SID Jukebox - With HCSC Integration*<br>
+*SID Jukebox - With HVSC Integration*<br>
 <img width="522" height="550" alt="image" src="https://github.com/user-attachments/assets/3acc72a1-be01-449b-87fb-75f0669945b5" />
-<br><br>
+<br>
+- SID JUKEBOX - Play, control, favourite your SID tunes with playback all on your C64U, has Native HVSC integration
+<br>
 
 *CSDB Integration*<br>
 <img width="520" height="540" alt="image" src="https://github.com/user-attachments/assets/8e3ca034-855d-4403-ab52-935c418d52c6" />
-<br><br>
+<br>
+- CSDB - Browse, download and run Games, Demos, explore awesome SID tunes with Native CSDB integration
+<br>
 
 *Native C64 VIBEAGENT*<br>
 <img width="522" height="353" alt="image" src="https://github.com/user-attachments/assets/2ee40aa0-a63b-4350-919d-59a96ebbdb5a" />
-<br><br>
+<br>
+- VIBEAGENT - A dynamic, compiled on demand Native AI Client for the C64! Connect to cloud and local models, chat, game, challenge and create all from your C64 Ultimate! Generate PETSCII or HIRES graphics via draw commands right on your C64, challenge the AI to text based adventures, with graphic support right on the C64 Ulimate! Chat with famous 80's personalities, even with Speech synthesis all on your C64!
+<br>
 
 <br><br>
 
